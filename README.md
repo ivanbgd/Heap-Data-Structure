@@ -1,5 +1,5 @@
 # Heap-Data-Structure
-The Heap data structure, in Python and C++, with the Heap Sort algorithm
+The Heap data structure in Python, with the Heap Sort algorithm
 
 Heaps are Complete Binary Trees.
 
